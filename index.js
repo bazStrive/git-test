@@ -1,9 +1,1 @@
-console.log("Hello this is master branch!!!!")
-
-// FIRST COMMIT (BY SECOND DEVELOPER) ON exercise-2 BRANCH
-
-// FIRST COMMIT ON exercise-1 branch
-
-// SECOND COMMIT ON exercise-1 branch
-
-console.log("HELLO I AM A NEW COMMIT")
+console.log("Hello this is master branch")
